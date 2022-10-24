@@ -1,2 +1,2 @@
 # Hdet
-Easy-to-use image detectionlibrary.
+Easy-to-use image detection library.
